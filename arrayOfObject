@@ -1,4 +1,4 @@
-	//Create a array of country objects having name capital and population as properties. Print the countries whose population is less than 2000
+//Create a array of country objects having name capital and population as properties. Print the countries whose population is less than 2000
   
   <script type="text/javascript">
 	
