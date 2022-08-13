@@ -1,2 +1,4 @@
+//Write a program to print a array of give names in reverse order.
+
 let cars = ['BMW', 'Jaguar', 'Fortuner', 'Jeep', 'Creta']
 console.log(cars.reverse())
