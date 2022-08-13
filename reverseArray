@@ -1,0 +1,2 @@
+let cars = ['BMW', 'Jaguar', 'Fortuner', 'Jeep', 'Creta']
+console.log(cars.reverse())
